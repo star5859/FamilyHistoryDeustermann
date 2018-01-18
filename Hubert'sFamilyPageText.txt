@@ -1,0 +1,19 @@
+page: Hubert's Family
+
+
+title
+Hubert's Family
+
+button
+Photo Gallery    links to: PhotoGalleryPage
+
+button
+John & Catherine     links to:  JohnDeusterman & Catherine Seifert Family
+
+button
+Back to home Page  links to:  Home Page
+
+image: (left side)  Hubert & Caroline Tree.png
+
+
+image: (right side)   Hubert & MaryTree.png
